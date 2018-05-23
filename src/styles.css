@@ -6,3 +6,13 @@
 .pointer{
     cursor: pointer;
 }
+
+.w150{
+    width: 150px;
+}
+.h150{
+    height: 150px;
+}
+.radius50{
+    border-radius: 50%;
+}
