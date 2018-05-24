@@ -13,6 +13,24 @@
 .h150{
     height: 150px;
 }
-.radius50{
+.radius50, .imgCircle{
     border-radius: 50%;
+}
+.w50{
+    width: 50px;
+}
+.w70{
+    width: 70px;
+}
+.bg-black{
+    background: rgba(0,0,0,0.4);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+}
+.d-hidden{
+    display: none;
 }
